@@ -45,7 +45,7 @@ class _DataListScreenState extends State<DataListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Dashboard'),
+        title: Text('HELLO DASHBOARD'),
         centerTitle: true,
         actions: [
           IconButton(
